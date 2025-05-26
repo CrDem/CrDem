@@ -37,8 +37,8 @@ Despite most of my achievements being in the field of computer graphics, I'm als
 ### [Strelka: Path Tracer (Open Source) - glTF animation supply](https://github.com/arhix52/Strelka)
 Contributed a full-featured animation system to an open-source C++ GPU path tracer.  
 Worked with **CUDA**, **OptiX**, **GLTF**, and implemented:
-- Skeletal animation
-- Skinning
+- Scene loading, node hierarchy
+- Skinning and matrix animations
 - Motion blur
 - Performance-critical GPU algorithms  
 → [My Pull Request](https://github.com/arhix52/Strelka/pull/88)
