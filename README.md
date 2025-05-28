@@ -3,8 +3,6 @@
 🎓 I'm a Computer Science and Optimization student at HSE (Higher School of Economics), passionate about C++, algorithms, and computer graphics.  
 💡 I enjoy solving complex problems, optimizing code, and contributing to both personal and open-source projects.
 
----
-
 ## 🧠 About Me
 
 - Strong foundation in **C++**, **Python**, **Graphics** and **Data Management**
@@ -15,11 +13,10 @@
 
 Despite most of my achievements being in the field of computer graphics, I'm also interrested in **backend**, **infrastructure**, and **distributed systems**, where I aim to grow professionally.
 
----
-
 ## 🔧 Core Skills
 
 **Languages & Tools:**  
+`English C1`
 `C++` `STL` `Python` `Rust` `CUDA` `OptiX`  
 `SQL` `MongoDB` `Docker` `RabbitMQ` `Kafka` `Redis`  
 `Git` `Linux` `GDB` `Bash` `OptiX`  
@@ -29,8 +26,6 @@ Despite most of my achievements being in the field of computer graphics, I'm als
 `Algorithms` `Data Structures` `Multithreading` `Performance Optimization`  
 `3D Data Processing` `Distributed Systems` `Networking` `CI/CD`  
 `Integration Testing` `System Design` `Rendering`
-
----
 
 ## 🚀 Projects
 
@@ -103,7 +98,6 @@ Handles user state, file processing, and asynchronous video transformation.
 ## Contact Me
 
 - Email: anton_k05@mail.ru  
-- GitHub: [CrDem](https://github.com/CrDem)  
 - Telegram: `@CrDem`  
 - Resume: [View PDF](https://disk.yandex.ru/d/1TXvs51vFAJJZw)
 
