@@ -16,15 +16,15 @@ Most of my achievements being in the field of computer graphics, however I'm als
 ## 🔧 Core Skills
 
 **Languages & Tools:**  
-`English C1`
+`English C1`  
 `C++` `STL` `Python` `Rust` `CUDA` `OptiX`  
 `SQL` `MongoDB` `Docker` `RabbitMQ` `Kafka` `Redis`  
 `Git` `Linux` `GDB` `Bash` `OptiX`  
 `SFML` `GLFW` `ImGUI` `OpenAPI`
 
 **Areas of Expertise:**  
-`Algorithms` `Data Structures` `Multithreading` `Performance Optimization`  
-`3D Data Processing` `Distributed Systems` `Networking` `CI/CD`  
+`Algorithms` `Data Structures` `Multithreading` `Performance Optimization` `Profiling`  
+`3D Data Processing` `Video & Image Processing` `Distributed Systems` `Networking` `CI/CD`  
 `Integration Testing` `System Design` `Rendering`
 
 ## 🚀 Projects
