@@ -11,7 +11,7 @@
 - Enthusiastic open-source contributor  
 - GPA: **9/10**
 
-Despite most of my achievements being in the field of computer graphics, I'm also interrested in **backend**, **infrastructure**, and **distributed systems**, where I aim to grow professionally.
+Most of my achievements being in the field of computer graphics, however I'm also interested in **backend**, **infrastructure**, and **distributed systems**, where I aim to grow professionally.
 
 ## 🔧 Core Skills
 
