@@ -5,7 +5,7 @@
 
 ## 🧠 About Me
 
-- Strong foundation in **C++**, **Python**, **Graphics** and **Data Management**
+- Strong foundation in **C++**, **Python**, **Computer Graphics** and **Data Management**
 - Especially interested in **low-level programming**, **rendering**, and **graphics pipelines**
 - Practical experience with **backend development**, **SQL/NoSQL**, **Docker** and **RabbitMQ**
 - Enthusiastic open-source contributor  
