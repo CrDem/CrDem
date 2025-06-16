@@ -40,6 +40,16 @@ Worked with **CUDA**, **OptiX**, **GLTF**, and implemented:
 
 ---
 
+### [Metric Logger (C++)](https://github.com/CrDem/logger_cpp)
+Lightweight and thread-safe C++ library for collecting and periodically logging runtime metrics to a file.  
+Features:
+- Templated metric types with atomic aggregation  
+- Thread-safe metric registry  
+- Background logger with timestamped file output  
+- Designed for extensibility and embedding into larger systems  
+
+---
+
 ### [Board Game Rental System](https://github.com/CrDem/database-board_games_rental_store-)
 Backend system for managing a board game rental store.  
 Includes:
