@@ -5,22 +5,19 @@
 
 ## 🧠 About Me
 
-- Strong foundation in **C++**, **Python**, **Computer Graphics** and **Data Management**
-- Especially interested in **low-level programming**, **rendering**, and **graphics pipelines**
-- Practical experience with **backend development**, **SQL/NoSQL**, **Docker** and **RabbitMQ**
+- Strong foundation in **C++**, **Python**, **Computer Graphics**, **GPU Optimizations**, **HPC** and **Data Management**
+- Especially interested in **low-level programming**, **rendering**, **graphics pipelines**, **ML/AI**, **Performance Optimization**
 - Enthusiastic open-source contributor  
 - GPA: **9/10**
-
-Most of my achievements being in the field of computer graphics, however I'm also interested in **backend**, **infrastructure**, and **distributed systems**, where I aim to grow professionally.
 
 ## 🔧 Core Skills
 
 **Languages & Tools:**  
 `English C1`  
 `C++` `STL` `Python` `Rust` `CUDA` `OptiX`  
-`SQL` `MongoDB` `Docker` `RabbitMQ` `Kafka` `Redis`  
-`Git` `Linux` `GDB` `Bash` `OptiX`  
-`SFML` `GLFW` `ImGUI` `OpenAPI`
+`SQL` `MongoDB` `Docker` `RabbitMQ` `Redis`  
+`Git` `Bash` `OptiX`  
+`SFML` `GLFW` `ImGUI` `OpenAPI` `PyTorch` `Scikit-learn` `NumPy` `Pandas`
 
 **Areas of Expertise:**  
 `Algorithms` `Data Structures` `Multithreading` `Performance Optimization` `Profiling`  
