@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Anton
+# 🧠 Anton Kuznetsov
 
 I'm a Computer Science and Optimization student at HSE (Higher School of Economics), passionate about C++, algorithms, and computer graphics.  
 I enjoy solving complex problems, optimizing code, and contributing to both personal and open-source projects.
