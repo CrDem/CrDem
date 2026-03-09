@@ -118,9 +118,9 @@ Handles user state, file processing, and asynchronous video transformation.
 
 ## Contact Me
 
-- Email: anton_k05@mail.ru  
+- Email: CrDem247@gmail.com  
 - Telegram: `@CrDem`  
-- Resume: [View PDF](https://disk.yandex.ru/d/1TXvs51vFAJJZw)
+- Resume: [View PDF](https://disk.360.yandex.ru/d/oe2ry3OCOe-sVA)
 
 ---
 
