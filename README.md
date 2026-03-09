@@ -37,6 +37,20 @@ Worked with **CUDA**, **OptiX**, **GLTF**, and implemented:
 
 ---
 
+### [Flash Attention CUDA Optimization (NVIDIA Turing)](https://github.com/CrDem/attention)
+High-performance implementation of the **Attention mechanism on GPU** with architecture-specific optimizations for **NVIDIA Turing (SM75)**.
+
+Implemented and optimized a custom **CUDA kernel for Flash Attention**, focusing on memory efficiency and GPU utilization.
+
+Features:
+- Custom CUDA implementation of **Flash Attention**
+- Architecture-aware optimizations for **Turing GPUs (SM75)**
+- GPU profiling and kernel analysis using **Nsight Compute**
+- Performance benchmarking against **PyTorch implementations**
+- Validation of **numerical stability and precision**
+
+---
+
 ### [Metric Logger (C++)](https://github.com/CrDem/logger_cpp)
 Lightweight and thread-safe C++ library for collecting and periodically logging runtime metrics to a file.  
 Features:
