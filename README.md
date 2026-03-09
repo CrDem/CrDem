@@ -1,16 +1,16 @@
 # 👋 Hi, my name is Anton
 
-🎓 I'm a Computer Science and Optimization student at HSE (Higher School of Economics), passionate about C++, algorithms, and computer graphics.  
-💡 I enjoy solving complex problems, optimizing code, and contributing to both personal and open-source projects.
+I'm a Computer Science and Optimization student at HSE (Higher School of Economics), passionate about C++, algorithms, and computer graphics.  
+I enjoy solving complex problems, optimizing code, and contributing to both personal and open-source projects.
 
-## 🧠 About Me
+## About Me
 
 - Strong foundation in **C++**, **Python**, **Computer Graphics**, **GPU Optimizations**, **HPC** and **Data Management**
 - Especially interested in **low-level programming**, **rendering**, **graphics pipelines**, **ML/AI**, **Performance Optimization**
 - Enthusiastic open-source contributor  
 - GPA: **9/10**
 
-## 🔧 Core Skills
+## Core Skills
 
 **Languages & Tools:**  
 `English C1`  
@@ -24,7 +24,7 @@
 `3D Data Processing` `Video & Image Processing` `Distributed Systems` `Networking` `CI/CD`  
 `Integration Testing` `System Design` `Rendering`
 
-## 🚀 Projects
+## Projects
 
 ### [Strelka: Path Tracer (Open Source) - glTF animation supply](https://github.com/arhix52/Strelka)
 Contributed a full-featured animation system to an open-source C++ GPU path tracer.  
